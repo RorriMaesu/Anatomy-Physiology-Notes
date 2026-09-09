@@ -1,22 +1,26 @@
 <div align="center">
 
-![Anatomy & Physiology study collection](assets/banner.svg)
+<a href="https://rorrimaesu.github.io/Anatomy-Physiology-Notes/">
+  <img src="assets/banner.svg" alt="Open the Anatomy and Physiology study site — click here" width="1200">
+</a>
 
-# 🧠 Anatomy & Physiology Notes
+# Anatomy & Physiology Notes
 
-**An organized OpenStax study companion by RorriMaesu**
+**Your chapter-by-chapter collection for understanding, memory, and recall.**
+
+Created by [RorriMaesu](https://github.com/RorriMaesu) · Based on OpenStax Anatomy and Physiology 2e
 
 ![Chapters](https://img.shields.io/badge/Chapters-28-126782?style=for-the-badge)
 ![Practice](https://img.shields.io/badge/Practice_questions-144-087f75?style=for-the-badge)
 ![Edition](https://img.shields.io/badge/OpenStax-2nd_edition-234876?style=for-the-badge)
 
-### [📖 Open the study site](https://rorrimaesu.github.io/Anatomy-Physiology-Notes/) · [⬇️ Download all files](https://github.com/RorriMaesu/Anatomy-Physiology-Notes/archive/refs/heads/main.zip)
+### [🚀 OPEN THE STUDY SITE](https://rorrimaesu.github.io/Anatomy-Physiology-Notes/) · [⬇️ Download all files](https://github.com/RorriMaesu/Anatomy-Physiology-Notes/archive/refs/heads/main.zip)
 
 </div>
 
 ---
 
-## Start with the material you need
+## Explore the collection
 
 | Study resource | What you will find |
 | :--- | :--- |
@@ -30,7 +34,7 @@
 
 > **Know the scope:** “2e” means the **second edition** of the textbook, not Anatomy & Physiology II. The textbook spans a full A&P sequence. Chapters 1–12 are a provisional starting scope for these detailed notes, **not a verified A&P I syllabus**. Use your instructor’s chapter and lab lists to choose what to study.
 
-## A study session that actually asks your brain to work
+## Read → Recall → Check → Repeat
 
 1. Read one assigned section and its notes.
 2. Close the notes. Explain the process aloud or redraw it from memory.
@@ -43,9 +47,14 @@ Recognizing a paragraph is easier than explaining it with the page closed. These
 
 Download the repository ZIP, extract it, and open **index.html**. Keep the folders together so links and images work. HTML files are for reading and printing; Markdown (`.md`) copies are for editing. Diagrams include PNG and SVG versions.
 
-## GitHub Pages setup
+<details>
+<summary><strong>⚙️ Repository owner: GitHub Pages setup</strong></summary>
 
 If the study-site link is not live yet, open [Settings → Pages](https://github.com/RorriMaesu/Anatomy-Physiology-Notes/settings/pages). Under **Build and deployment**, select **Deploy from a branch**, choose **main** and **/(root)**, then **Save**. GitHub will publish the existing `index.html`; no package installation or build command is needed. Later commits to `main` update the published site.
+
+</details>
+
+---
 
 ## Sources and reuse
 
