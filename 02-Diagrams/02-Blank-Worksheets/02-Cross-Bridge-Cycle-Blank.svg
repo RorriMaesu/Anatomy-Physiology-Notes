@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="504pt" viewBox="0 0 792 504" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T14:53:18.305077</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 504 
+L 792 504 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 68.112 199.44 
+L 359.568 199.44 
+L 359.568 145.44 
+L 68.112 145.44 
+z
+" clip-path="url(#pdefe46c5d3)" style="fill: #e8f1f6; stroke: #28658c; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 432.432 199.44 
+L 723.888 199.44 
+L 723.888 145.44 
+L 432.432 145.44 
+z
+" clip-path="url(#pdefe46c5d3)" style="fill: #e8f1f6; stroke: #28658c; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 432.432 372.24 
+L 723.888 372.24 
+L 723.888 318.24 
+L 432.432 318.24 
+z
+" clip-path="url(#pdefe46c5d3)" style="fill: #e8f1f6; stroke: #28658c; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 68.112 372.24 
+L 359.568 372.24 
+L 359.568 318.24 
+L 68.112 318.24 
+z
+" clip-path="url(#pdefe46c5d3)" style="fill: #e8f1f6; stroke: #28658c; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #192d40" x="213.84" y="175.475313" transform="rotate(-0 213.84 175.475313)">1</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #192d40" x="578.16" y="175.475313" transform="rotate(-0 578.16 175.475313)">2</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #192d40" x="578.16" y="348.275313" transform="rotate(-0 578.16 348.275313)">3</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #192d40" x="213.84" y="348.275313" transform="rotate(-0 213.84 348.275313)">4</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 368.857448 172.44 
+Q 396.00006 172.44 421.13021 172.44 
+" style="fill: none; stroke: #28658c; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 416.33021 170.04 
+L 421.13021 172.44 
+L 416.33021 174.84 
+" style="fill: none; stroke: #28658c; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 578.16 206.84061 
+Q 578.16 258.839121 578.16 308.82517 
+" style="fill: none; stroke: #28658c; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 580.56 304.02517 
+L 578.16 308.82517 
+L 575.76 304.02517 
+" style="fill: none; stroke: #28658c; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 423.142552 345.24 
+Q 395.99994 345.24 370.86979 345.24 
+" style="fill: none; stroke: #28658c; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 375.66979 347.64 
+L 370.86979 345.24 
+L 375.66979 342.84 
+" style="fill: none; stroke: #28658c; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 213.84 310.83939 
+Q 213.84 258.840879 213.84 208.85483 
+" style="fill: none; stroke: #28658c; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 211.44 213.65483 
+L 213.84 208.85483 
+L 216.24 213.65483 
+" style="fill: none; stroke: #28658c; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="396" y="434.34" transform="rotate(-0 396 434.34)">When calcium falls and binding sites become blocked, continued cycling stops.</text>
+   </g>
+  </g>
+  <g id="text_6">
+   <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #192d40" x="396" y="29.557031" transform="rotate(-0 396 29.557031)">The cross-bridge cycle</text>
+  </g>
+  <g id="text_7">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #192d40" x="396" y="55.44" transform="rotate(-0 396 55.44)">Cycling requires available actin sites and ATP; calcium regulates site exposure in skeletal muscle.</text>
+  </g>
+  <g id="text_8">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="396" y="491.4" transform="rotate(-0 396 491.4)">Original study schematic based on OpenStax Anatomy and Physiology 2e. Not to scale.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pdefe46c5d3">
+   <rect x="31.68" y="80.64" width="728.64" height="378"/>
+  </clipPath>
+ </defs>
+</svg>

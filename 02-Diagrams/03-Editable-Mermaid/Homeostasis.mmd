@@ -1,0 +1,9 @@
+flowchart TD
+ A["Temperature deviates"] --> B["Receptors detect change"]
+ B --> C["Control center compares"]
+ C --> D{"Too hot or too cold"}
+ D -->|Hot| E["Sweating and skin vasodilation"]
+ D -->|Cold| F["Shivering and skin vasoconstriction"]
+ E --> G["Temperature approaches range"]
+ F --> G
+ G --> H["Corrective drive decreases"]

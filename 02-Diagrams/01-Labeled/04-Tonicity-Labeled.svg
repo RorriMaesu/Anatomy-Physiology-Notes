@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="504pt" viewBox="0 0 792 504" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T14:53:17.887301</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 504 
+L 792 504 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 162.8352 326.34 
+C 183.125147 326.34 202.586801 320.36573 216.93396 309.732954 
+C 231.281119 299.100179 239.3424 284.677016 239.3424 269.64 
+C 239.3424 254.602984 231.281119 240.179821 216.93396 229.547046 
+C 202.586801 218.91427 183.125147 212.94 162.8352 212.94 
+C 142.545253 212.94 123.083599 218.91427 108.73644 229.547046 
+C 94.389281 240.179821 86.328 254.602984 86.328 269.64 
+C 86.328 284.677016 94.389281 299.100179 108.73644 309.732954 
+C 123.083599 320.36573 142.545253 326.34 162.8352 326.34 
+z
+" clip-path="url(#p4ce784154f)" style="fill: #e8f1f6; stroke: #28658c; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 396 312.84 
+C 411.459007 312.84 426.286934 308.288175 437.218103 300.187013 
+C 448.149271 292.08585 454.2912 281.096774 454.2912 269.64 
+C 454.2912 258.183226 448.149271 247.19415 437.218103 239.092987 
+C 426.286934 230.991825 411.459007 226.44 396 226.44 
+C 380.540993 226.44 365.713066 230.991825 354.781897 239.092987 
+C 343.850729 247.19415 337.7088 258.183226 337.7088 269.64 
+C 337.7088 281.096774 343.850729 292.08585 354.781897 300.187013 
+C 365.713066 308.288175 380.540993 312.84 396 312.84 
+z
+" clip-path="url(#p4ce784154f)" style="fill: #e8f1f6; stroke: #28658c; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 629.1648 299.34 
+C 639.792867 299.34 649.987067 296.210621 657.502246 290.641071 
+C 665.017424 285.071522 669.24 277.516532 669.24 269.64 
+C 669.24 261.763468 665.017424 254.208478 657.502246 248.638929 
+C 649.987067 243.069379 639.792867 239.94 629.1648 239.94 
+C 618.536733 239.94 608.342533 243.069379 600.827354 248.638929 
+C 593.312176 254.208478 589.0896 261.763468 589.0896 269.64 
+C 589.0896 277.516532 593.312176 285.071522 600.827354 290.641071 
+C 608.342533 296.210621 618.536733 299.34 629.1648 299.34 
+z
+" clip-path="url(#p4ce784154f)" style="fill: #e8f1f6; stroke: #28658c; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle" x="162.8352" y="164.34" transform="rotate(-0 162.8352 164.34)">Hypotonic</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="162.8352" y="388.44" transform="rotate(-0 162.8352 388.44)">Water enters; cell swells</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 55.540025 269.64 
+Q 93.615524 269.64 129.678563 269.64 
+" style="fill: none; stroke: #28658c; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 124.878563 267.24 
+L 129.678563 269.64 
+L 124.878563 272.04 
+" style="fill: none; stroke: #28658c; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 270.130375 269.64 
+Q 232.054876 269.64 195.991837 269.64 
+" style="fill: none; stroke: #28658c; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 200.791837 272.04 
+L 195.991837 269.64 
+L 200.791837 267.24 
+" style="fill: none; stroke: #28658c; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle" x="396" y="164.34" transform="rotate(-0 396 164.34)">Isotonic</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="396" y="388.44" transform="rotate(-0 396 388.44)">No sustained net volume change</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 303.275179 253.44 
+Q 335.887326 253.44 366.487011 253.44 
+" style="fill: none; stroke: #28658c; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 361.687011 251.04 
+L 366.487011 253.44 
+L 361.687011 255.84 
+" style="fill: none; stroke: #28658c; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 368.499221 288.54 
+Q 335.887074 288.54 305.287389 288.54 
+" style="fill: none; stroke: #28658c; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 310.087389 290.94 
+L 305.287389 288.54 
+L 310.087389 286.14 
+" style="fill: none; stroke: #28658c; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle" x="629.1648" y="164.34" transform="rotate(-0 629.1648 164.34)">Hypertonic</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="629.1648" y="388.44" transform="rotate(-0 629.1648 388.44)">Water exits; cell shrinks</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 612.591175 269.64 
+Q 574.515676 269.64 538.452637 269.64 
+" style="fill: none; stroke: #28658c; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 543.252637 272.04 
+L 538.452637 269.64 
+L 543.252637 267.24 
+" style="fill: none; stroke: #28658c; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 645.738425 269.64 
+Q 683.813924 269.64 719.876963 269.64 
+" style="fill: none; stroke: #28658c; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 715.076963 267.24 
+L 719.876963 269.64 
+L 715.076963 272.04 
+" style="fill: none; stroke: #28658c; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="396" y="445.14" transform="rotate(-0 396 445.14)">Isotonic conditions do not stop individual water molecules from moving.</text>
+   </g>
+  </g>
+  <g id="text_8">
+   <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #192d40" x="396" y="29.557031" transform="rotate(-0 396 29.557031)">Tonicity and animal-cell volume</text>
+  </g>
+  <g id="text_9">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #192d40" x="396" y="55.44" transform="rotate(-0 396 55.44)">External solutions are described relative to the cell; effectively nonpenetrating solutes determine tonicity.</text>
+  </g>
+  <g id="text_10">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="396" y="491.4" transform="rotate(-0 396 491.4)">Original study schematic based on OpenStax Anatomy and Physiology 2e. Not to scale.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p4ce784154f">
+   <rect x="31.68" y="80.64" width="728.64" height="378"/>
+  </clipPath>
+ </defs>
+</svg>

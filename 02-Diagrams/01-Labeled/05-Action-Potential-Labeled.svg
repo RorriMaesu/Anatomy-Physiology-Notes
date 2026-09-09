@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="504pt" viewBox="0 0 792 504" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T14:53:17.998465</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 504 
+L 792 504 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 102.96 413.28 
+L 744.48 413.28 
+L 744.48 95.76 
+L 102.96 95.76 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="text_1">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="423.72" y="426.398125" transform="rotate(-0 423.72 426.398125)">Time (schematic; no fixed time scale)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="maaf43b3d2e" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#maaf43b3d2e" x="102.96" y="373.087595" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="95.96" y="377.646657" transform="rotate(-0 95.96 377.646657)">−80</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#maaf43b3d2e" x="102.96" y="352.991392" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="95.96" y="357.550455" transform="rotate(-0 95.96 357.550455)">−70</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#maaf43b3d2e" x="102.96" y="322.847089" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="95.96" y="327.406151" transform="rotate(-0 95.96 327.406151)">−55</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#maaf43b3d2e" x="102.96" y="212.317975" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="95.96" y="216.877037" transform="rotate(-0 95.96 216.877037)">0</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#maaf43b3d2e" x="102.96" y="152.029367" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="95.96" y="156.58843" transform="rotate(-0 95.96 156.58843)">30</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="64.13875" y="254.52" transform="rotate(-90 64.13875 254.52)">Membrane potential (mV)</text>
+    </g>
+   </g>
+   <g id="line2d_6">
+    <path d="M 102.96 352.991392 
+L 231.264 352.991392 
+L 282.5856 336.91443 
+L 327.492 322.847089 
+L 359.568 252.51038 
+L 378.8136 152.029367 
+L 423.72 188.202532 
+L 475.0416 296.722025 
+L 513.5328 352.991392 
+L 564.8544 377.106835 
+L 616.176 371.077975 
+L 693.1584 355.001013 
+L 744.48 352.991392 
+" clip-path="url(#p5a2d728775)" style="fill: none; stroke: #28658c; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 102.96 352.991392 
+L 744.48 352.991392 
+" clip-path="url(#p5a2d728775)" style="fill: none; stroke-dasharray: 1,1.65; stroke-dashoffset: 0; stroke: #888888"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 102.96 322.847089 
+L 744.48 322.847089 
+" clip-path="url(#p5a2d728775)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #888888"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 102.96 413.28 
+L 102.96 95.76 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 102.96 413.28 
+L 744.48 413.28 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 183.901203 390.930484 
+Q 188.109039 372.935814 192.062303 356.029809 
+" style="fill: none; stroke: #192d40; stroke-linecap: round"/>
+    <path d="M 188.918232 359.813301 
+L 192.062303 356.029809 
+L 193.202654 360.815162 
+" style="fill: none; stroke: #192d40; stroke-linecap: round"/>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #192d40" x="135.036" y="403.231899" transform="rotate(-0 135.036 403.231899)">Resting potential</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 173.952384 290.235652 
+Q 249.745232 306.333867 324.444443 322.199795 
+" style="fill: none; stroke: #192d40; stroke-linecap: round"/>
+    <path d="M 320.597533 319.133644 
+L 324.444443 322.199795 
+L 319.683376 323.437633 
+" style="fill: none; stroke: #192d40; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #192d40" x="115.7904" y="286.673924" transform="rotate(-0 115.7904 286.673924)">Threshold</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 239.542884 183.44162 
+Q 298.689172 217.477503 356.866419 250.955748 
+" style="fill: none; stroke: #192d40; stroke-linecap: round"/>
+    <path d="M 354.150062 246.854357 
+L 356.866419 250.955748 
+L 351.955492 250.667999 
+" style="fill: none; stroke: #192d40; stroke-linecap: round"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #192d40" x="154.2816" y="178.15443" transform="rotate(-0 154.2816 178.15443)">Na+ entry: depolarization</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 549.586648 167.889038 
+Q 506.548213 218.479774 464.234227 268.218938 
+" style="fill: none; stroke: #192d40; stroke-linecap: round"/>
+    <path d="M 468.760949 266.293117 
+L 464.234227 268.218938 
+L 465.409603 263.442068 
+" style="fill: none; stroke: #192d40; stroke-linecap: round"/>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #192d40" transform="translate(500.7024 149.759875)">Na+ inactivation and</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #192d40" transform="translate(500.7024 162.077468)">K+ exit: repolarization</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 559.729305 396.965585 
+Q 562.041917 388.004664 564.075143 380.126306 
+" style="fill: none; stroke: #192d40; stroke-linecap: round"/>
+    <path d="M 560.845425 383.836955 
+L 564.075143 380.126306 
+L 565.105831 384.93647 
+" style="fill: none; stroke: #192d40; stroke-linecap: round"/>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #192d40" x="494.2872" y="409.260759" transform="rotate(-0 494.2872 409.260759)">After-hyperpolarization</text>
+   </g>
+  </g>
+  <g id="text_13">
+   <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: middle" x="396" y="29.557031" transform="rotate(-0 396 29.557031)">A representative neuronal action potential</text>
+  </g>
+  <g id="text_14">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="396" y="45.36" transform="rotate(-0 396 45.36)">Illustrative shape and voltages; actual values and timing vary among neurons.</text>
+  </g>
+  <g id="text_15">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="396" y="491.4" transform="rotate(-0 396 491.4)">Original study schematic based on OpenStax Anatomy and Physiology 2e. Not to scale.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p5a2d728775">
+   <rect x="102.96" y="95.76" width="641.52" height="317.52"/>
+  </clipPath>
+ </defs>
+</svg>

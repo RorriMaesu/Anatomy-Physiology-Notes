@@ -1,0 +1,7 @@
+flowchart TD
+ A["Energized myosin binds exposed actin"] --> B["Power stroke"]
+ B --> C["ATP binds and myosin detaches"]
+ C --> D["ATP hydrolysis repositions the head"]
+ D --> E{"Binding sites still exposed"}
+ E -->|Yes| A
+ E -->|No| F["Cross-bridge cycling stops"]
