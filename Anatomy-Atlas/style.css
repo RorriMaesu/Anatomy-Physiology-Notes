@@ -25,3 +25,9 @@ body{height:var(--app-height,100dvh);padding-left:env(safe-area-inset-left);padd
 
 /* Keep the required source and license links readable in the compact worksheet footer. */
 footer a{color:#315d7f;text-underline-offset:2px}footer a:hover{color:#172b45}
+
+/* Keep the study index inside the worksheet so it owns its vertical scroll. */
+.study-mode #studysurface{position:absolute;inset:0;width:auto;height:auto;overflow:hidden}
+.study-mode .studypanel{height:100%;max-height:100%;overflow:hidden}
+.study-mode .studygrid{height:0;min-height:0}
+.study-mode .studyrail{height:100%;max-height:100%;min-height:0;overflow-y:auto;scrollbar-gutter:stable;-webkit-overflow-scrolling:touch;touch-action:pan-y}
