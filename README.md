@@ -36,6 +36,22 @@ Created by [RorriMaesu](https://github.com/RorriMaesu) · Based on OpenStax Anat
 
 > **Know the scope:** “2e” means the **second edition** of the textbook, not Anatomy & Physiology II. The textbook spans a full A&P sequence. Chapters 1–12 are a provisional starting scope for these detailed notes, **not a verified A&P I syllabus**. Use your instructor’s chapter and lab lists to choose what to study.
 
+## Meet the Interactive Anatomy Atlas
+
+The new [Anatomy Atlas](https://rorrimaesu.github.io/Anatomy-Physiology-Notes/Anatomy-Atlas/) turns regional anatomy into an active study session. Work through **52 anterior and posterior body regions** as a labeling quiz, or switch on **Show labels** to explore the terms alongside the diagram.
+
+- Practice the anterior view, posterior view, or both together.
+- Open a focused head-and-neck view for smaller structures.
+- Enter either common names or anatomical terms, then review spelling guidance and memory hooks.
+- Zoom and fit the worksheet to your screen on desktop, tablet, or phone.
+- Keep quiz progress saved locally in your browser—no account or installation required.
+
+[![Anatomy Atlas quiz showing the anterior and posterior regional anatomy views](02-Diagrams/AnatomyAtlasPreview/AnatomyAtlaspreview1.png)](https://rorrimaesu.github.io/Anatomy-Physiology-Notes/Anatomy-Atlas/)
+
+[![Anatomy Atlas study mode showing the scrollable region index and learning details](02-Diagrams/AnatomyAtlasPreview/AnatomyAtlaspreview2.png)](https://rorrimaesu.github.io/Anatomy-Physiology-Notes/Anatomy-Atlas/)
+
+### [🗺️ Launch the Anatomy Atlas](https://rorrimaesu.github.io/Anatomy-Physiology-Notes/Anatomy-Atlas/)
+
 ## Read → Recall → Check → Repeat
 
 1. Read one assigned section and its notes.
