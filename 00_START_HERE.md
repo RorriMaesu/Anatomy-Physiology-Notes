@@ -7,6 +7,7 @@ Start here after extracting the ZIP. Everything in this folder opens locally; in
 - 28 chapter folders: 72 detailed sections in Chapters 1–12, followed by 97 section planning outlines in Chapters 13–28.
 - 144 original practice questions with separate answer keys.
 - Five labeled diagram schematics and five numbered blank worksheets, each as PNG and SVG.
+- An interactive atlas for studying and quizzing 52 anterior and posterior body regions.
 - Chapter mnemonic sheets, lab references, and seven reusable templates.
 - HTML pages for reading and printing, plus Markdown text copies for editing.
 
@@ -17,6 +18,7 @@ These are study notes and plans, not a verified assignment schedule. Use your sy
 - [Study plan](00-Study-Plan/Study-Plan.html)
 - [All notes and outlines](01-Chapters/All-Notes-and-Outlines.html)
 - [Diagram gallery and blank worksheets](02-Diagrams/Diagram-Gallery.html)
+- [Interactive anatomy atlas](Anatomy-Atlas/)
 - [All memory cues](03-Mnemonics/All-Memory-Cues.html)
 - [All practice questions](04-Practice/All-Questions.html)
 - [Separate answer key](04-Practice/All-Answers.html)

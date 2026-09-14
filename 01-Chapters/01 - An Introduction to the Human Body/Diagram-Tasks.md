@@ -38,6 +38,8 @@ Draw front and back body outlines, three cutting planes, a cavity map, and a nin
 
 [OpenStax section 1.6](https://openstax.org/books/anatomy-and-physiology-2e/pages/1-6-anatomical-terminology)
 
+**Interactive practice:** [Open the Anatomy Atlas](../../Anatomy-Atlas/) to study and quiz yourself on the 52 body regions shown in anterior and posterior views.
+
 ## 1.7 Medical Imaging
 
 Make a five-row table for X-ray, CT, MRI, ultrasound, and PET. Record the physical principle and a textbook use. Identify which methods use ionizing radiation.

@@ -2,6 +2,8 @@
 
 Five original study schematics, each in labeled and numbered blank versions. PNG files open in ordinary image viewers; SVG files stay sharp when enlarged. Each diagram also has an answer key.
 
+**Interactive body-region practice:** [Open the Anatomy Atlas](../Anatomy-Atlas/) to explore, label, and quiz all 52 anterior and posterior regions.
+
 [Diagram answer keys](Diagram-Answer-Keys.html)
 
 ## 01-Homeostasis

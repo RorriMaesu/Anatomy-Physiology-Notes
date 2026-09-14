@@ -86,6 +86,8 @@ Detailed notes. Match these sections to your actual reading assignments.
 
 [OpenStax section 1.6](https://openstax.org/books/anatomy-and-physiology-2e/pages/1-6-anatomical-terminology)
 
+**Interactive practice:** [Open the Anatomy Atlas](../../Anatomy-Atlas/) to study and quiz yourself on the 52 body regions shown in anterior and posterior views.
+
 - Use anatomical position: upright, facing forward, arms at the sides, palms forward. Right and left belong to the subject. Supine means face up; prone means face down.
 - Learn paired directions: superior/inferior, anterior/posterior, medial/lateral, proximal/distal, superficial/deep. Sagittal planes divide right and left; frontal divides anterior/posterior; transverse divides superior/inferior.
 - Dorsal cavities include cranial and vertebral. Ventral cavities include thoracic and abdominopelvic. The diaphragm separates thoracic and abdominal cavities. Visceral serosa covers an organ; parietal serosa lines the cavity wall.

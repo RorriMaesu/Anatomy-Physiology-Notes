@@ -2,11 +2,13 @@
 
 Textbook: J. Gordon Betts and colleagues, OpenStax Anatomy and Physiology 2e, published April 20, 2022. Online sections reviewed for this study project. This is an independent study aid, not an OpenStax publication or an instructor syllabus.
 
+The interactive Anatomy Atlas adapts the body-region illustration in OpenStax *Anatomy and Physiology 2e*, Figure 1.12, into a numbered worksheet with original quiz behavior, accepted-answer logic, spelling guidance, and memory aids. [Access the original Figure 1.12 and Section 1.6 for free at OpenStax](https://openstax.org/books/anatomy-and-physiology-2e/pages/1-6-anatomical-terminology).
+
 [OpenStax textbook](https://openstax.org/books/anatomy-and-physiology-2e/pages/1-introduction)
 
 [Preface and student resources](https://openstax.org/books/anatomy-and-physiology-2e/pages/preface)
 
-Adapted textbook material is shared under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Notes are paraphrased and reorganized. Mnemonic explanations and original diagram schematics are added study aids. OpenStax branding and textbook illustrations have not been copied into this package.
+Adapted textbook material is shared under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Notes are paraphrased and reorganized. Mnemonic explanations and original diagram schematics are added study aids. Except for the credited Figure 1.12 adaptation used by the Anatomy Atlas, OpenStax branding and textbook illustrations have not been copied into this package.
 
 ## Learning research
 
