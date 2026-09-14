@@ -3,6 +3,19 @@
   const root = document.documentElement;
   const system = window.matchMedia('(prefers-reduced-motion: reduce)');
   const button = document.querySelector('.motion-toggle');
+  if (document.querySelector('.home-hero')) {
+    const gnosysLink = document.createElement('a');
+    gnosysLink.href = 'https://rorrimaesu.github.io/Gnosys-AI/anatomy1/';
+    gnosysLink.target = '_blank';
+    gnosysLink.rel = 'noopener noreferrer';
+    gnosysLink.textContent = 'Gnosys A&P I ↗';
+    gnosysLink.setAttribute('aria-label', 'Open Gnosys AI Anatomy and Physiology I in a new tab');
+    gnosysLink.className = 'top-link';
+    document.querySelector('.top-actions')?.prepend(gnosysLink);
+    const mobileLink = gnosysLink.cloneNode(true);
+    mobileLink.className = '';
+    document.querySelector('.mobile-links')?.append(mobileLink);
+  }
   let preference = null;
   try { preference = localStorage.getItem('ap-study-motion'); } catch (_) { /* Offline privacy mode. */ }
   let animations = new Set();
