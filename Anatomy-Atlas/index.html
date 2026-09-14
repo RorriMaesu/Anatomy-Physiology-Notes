@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,interactive-widget=resizes-content">
+  <meta name="theme-color" content="#0c1024">
+  <meta name="description" content="Explore, study, and quiz 52 anterior and posterior human anatomical regions.">
+  <title>Anatomy Atlas · Region Lab</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='12' fill='%230c1024'/%3E%3Cpath d='M10 30L20 9l10 21M14 24h12' fill='none' stroke='%236cf5da' stroke-width='3'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css?v=9">
+</head>
+<body>
+  <div class="aurora"></div>
+  <header>
+    <a class="brand" href="../index.html" aria-label="Back to Anatomy and Physiology Notes" title="Back to Anatomy and Physiology Notes">
+      <span class="logo">A</span>
+      <span>ANATOMY<span class="light"> ATLAS</span><small>THE REGION LAB</small></span>
+    </a>
+    <div class="toolbarhint">Click a number · Type a region · Enter to advance</div>
+    <div class="completion">
+      <strong id="count">0 / 52</strong><span>ANSWERED</span>
+      <div class="track"><i id="bar"></i></div>
+    </div>
+    <button id="motion" class="quiet" aria-pressed="false">Motion on</button>
+  </header>
+  <main>
+    <div class="workspace">
+      <section class="board">
+        <div class="boardtop">
+          <span><b class="live"></b> INTERACTIVE WORKSHEET</span>
+          <div class="viewtools">
+            <div class="viewtabs" role="group" aria-label="Worksheet view">
+              <button id="viewboth" aria-pressed="true">Both</button>
+              <button id="viewfront" aria-pressed="false">Front</button>
+              <button id="viewback" aria-pressed="false">Back</button>
+            </div>
+            <button id="labels" role="switch" aria-checked="false">Show labels</button>
+            <button id="headview" hidden>Head detail</button>
+            <button id="detail" title="Magnify the selected marker">Detail</button>
+            <button id="minus" aria-label="Zoom out">−</button>
+            <button id="fit" title="Fit the entire worksheet">Fit</button>
+            <button id="plus" aria-label="Zoom in">+</button>
+          </div>
+        </div>
+        <div id="viewport">
+          <div id="canvas">
+            <svg id="map" viewBox="660 110 840 720" role="group" aria-label="Anatomical region answer markers">
+              <image href="worksheet.png" x="0" y="0" width="1527" height="859"/>
+              <rect x="1067" y="362" width="45" height="32" fill="white"/>
+              <rect x="1420" y="408" width="60" height="35" fill="white"/>
+              <rect x="1355" y="625" width="60" height="35" fill="white"/>
+              <g id="markers"></g>
+            </svg>
+          </div>
+          <div id="studysurface" hidden></div>
+        </div>
+        <footer>
+          <span>Adapted from OpenStax A&amp;P 2e · Figure 1.12 · modified interactive worksheet</span>
+          <span><a href="../index.html">← A&amp;P Notes</a> · <a href="https://openstax.org/books/anatomy-and-physiology-2e/pages/1-6-anatomical-terminology">Access for free at OpenStax</a> · <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></span>
+        </footer>
+      </section>
+      <aside>
+        <div class="answercard">
+          <div class="eyebrow" id="viewlabel">ANTERIOR VIEW</div>
+          <div class="cardtitle"><h2>Region <span id="number">01</span></h2><span class="orbit">✧</span></div>
+          <p id="prompt">Follow the original black line from the selected number.</p>
+          <div id="studydetail" hidden></div>
+          <form id="answerform">
+            <label for="answer">YOUR ANSWER</label>
+            <input id="answer" autocomplete="off" autocapitalize="none" autocorrect="off" enterkeyhint="next" spellcheck="false" placeholder="Type a region name…">
+            <button class="primary" type="submit">Save &amp; next <span>↗</span></button>
+          </form>
+          <div class="nav"><button id="previous">← Previous</button><button id="next">Next →</button></div>
+          <div id="feedback" aria-live="polite"></div>
+          <div class="tip">Common names and anatomical terms are welcome. Progress is saved on this device; answers stay hidden until you check.</div>
+        </div>
+        <div class="scorecard" id="scorecard">
+          <div class="eyebrow">YOUR NEXT CHALLENGE</div>
+          <h3>From familiar<br>to second nature.</h3>
+          <p>All regions. Both views.<br>One answer at a time.</p>
+          <div class="rings"><span>◎</span><span>◎</span><span>◎</span></div>
+        </div>
+        <button class="check" id="check">Check answers <span>✓</span></button>
+        <div class="actions">
+          <button id="review" disabled>Review</button>
+          <button id="retry" hidden>Retry missed</button>
+          <button id="reveal" hidden>Reveal answers</button>
+          <button id="reset">Start over</button>
+        </div>
+        <p class="hint">Enter saves &amp; advances · Zoom for detail</p>
+      </aside>
+    </div>
+  </main>
+  <dialog id="reviewdialog" aria-labelledby="reviewtitle">
+    <div class="dialogtop"><h2 id="reviewtitle">Your review</h2><button id="closereview" autofocus>Back to worksheet ×</button></div>
+    <div id="results" hidden></div>
+  </dialog>
+  <div id="confetti" aria-hidden="true"></div>
+  <script src="learning.js?v=3"></script>
+  <script src="study.js?v=8"></script>
+  <script src="app.js?v=9"></script>
+</body>
+</html>

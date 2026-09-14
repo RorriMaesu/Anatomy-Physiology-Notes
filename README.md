@@ -12,6 +12,7 @@ Created by [RorriMaesu](https://github.com/RorriMaesu) · Based on OpenStax Anat
 
 ![Chapters](https://img.shields.io/badge/Chapters-28-126782?style=for-the-badge)
 ![Practice](https://img.shields.io/badge/Practice_questions-144-087f75?style=for-the-badge)
+![Anatomy Atlas](https://img.shields.io/badge/Anatomy_Atlas-52_regions-7259d6?style=for-the-badge)
 ![Edition](https://img.shields.io/badge/OpenStax-2nd_edition-234876?style=for-the-badge)
 
 ### [🚀 OPEN THE STUDY SITE](https://rorrimaesu.github.io/Anatomy-Physiology-Notes/) · [⬇️ Download all files](https://github.com/RorriMaesu/Anatomy-Physiology-Notes/archive/refs/heads/main.zip)
@@ -27,6 +28,7 @@ Created by [RorriMaesu](https://github.com/RorriMaesu) · Based on OpenStax Anat
 | [📚 Chapter notes](https://rorrimaesu.github.io/Anatomy-Physiology-Notes/#chapters) | 72 detailed sections in Chapters 1–12; 97 planning outlines in Chapters 13–28 |
 | [🧩 Mnemonics](https://rorrimaesu.github.io/Anatomy-Physiology-Notes/03-Mnemonics/All-Memory-Cues.html) | Chapter memory cues, with precision notes to avoid misleading shortcuts |
 | [✏️ Diagrams](https://rorrimaesu.github.io/Anatomy-Physiology-Notes/02-Diagrams/Diagram-Gallery.html) | Five original schematics, each with a labeled version and a numbered blank worksheet |
+| [🗺️ Interactive anatomy atlas](https://rorrimaesu.github.io/Anatomy-Physiology-Notes/Anatomy-Atlas/) | Study mode and a 52-region anterior/posterior labeling quiz with spelling guidance |
 | [🎯 Retrieval practice](https://rorrimaesu.github.io/Anatomy-Physiology-Notes/04-Practice/All-Questions.html) | 144 original questions with [answers kept separately](https://rorrimaesu.github.io/Anatomy-Physiology-Notes/04-Practice/All-Answers.html) |
 | [🔬 Lab references](https://rorrimaesu.github.io/Anatomy-Physiology-Notes/05-Lab-Reference/Lab-Reference-Sheets.html) | Histology, skeletal and muscle references, and comparison tables |
 | [🗓️ Study plan](https://rorrimaesu.github.io/Anatomy-Physiology-Notes/00-Study-Plan/Study-Plan.html) | A practical routine for reading, drawing, recall, and revisiting mistakes |
@@ -45,7 +47,7 @@ Recognizing a paragraph is easier than explaining it with the page closed. These
 
 ## Use it offline, too
 
-Download the repository ZIP, extract it, and open **index.html**. Keep the folders together so links and images work. HTML files are for reading and printing; Markdown (`.md`) copies are for editing. Diagrams include PNG and SVG versions.
+Download the repository ZIP, extract it, and open **index.html**. Keep the folders together so links and images work. HTML files are for reading and printing; Markdown (`.md`) copies are for editing. Diagrams include PNG and SVG versions, and the Anatomy Atlas runs entirely in the browser.
 
 <details>
 <summary><strong>⚙️ Repository owner: GitHub Pages setup</strong></summary>

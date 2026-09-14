@@ -2,6 +2,8 @@
 
 144 original questions for Chapters 1–12. Answer before opening the separate answer key.
 
+**Looking for visual identification practice?** [Open the Anatomy Atlas](../Anatomy-Atlas/) for a 52-region labeling quiz.
+
 ## Chapter 1 practice questions
 
 Answer without looking. Use the separate answer key after your attempt.
