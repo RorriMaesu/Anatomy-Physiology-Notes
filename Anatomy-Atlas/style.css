@@ -26,6 +26,12 @@ body{height:var(--app-height,100dvh);padding-left:env(safe-area-inset-left);padd
 /* Keep the required source and license links readable in the compact worksheet footer. */
 footer a{color:#315d7f;text-underline-offset:2px}footer a:hover{color:#172b45}
 
+/* Return to the course dashboard without giving up the current Atlas session. */
+.gnosys-return{display:inline-flex;align-items:center;justify-content:center;min-height:34px;padding:6px 10px;border:1px solid #ffffff20;border-radius:9px;color:var(--muted);font-size:11px;white-space:nowrap;text-decoration:none;transition:color .2s,background .2s,border-color .2s,transform .2s}
+.gnosys-return:hover{color:var(--mint);background:#ffffff13;border-color:#77f6d566;transform:translateY(-1px)}
+.gnosys-return-short{display:none}
+@media(max-width:760px){.gnosys-return{min-width:32px;padding:5px 8px;font-size:12px}.gnosys-return-label{display:none}.gnosys-return-short{display:inline}}
+
 /* Keep the study index inside the worksheet so it owns its vertical scroll. */
 .study-mode #studysurface{position:absolute;inset:0;width:auto;height:auto;overflow:hidden}
 .study-mode .studypanel{height:100%;max-height:100%;overflow:hidden}
