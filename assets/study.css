@@ -17,3 +17,12 @@
 /* The interactive atlas is a distinct, first-class study tool on the home page. */
 .resource-card.atlas-card{background:linear-gradient(135deg,#142b43,#342967);border-color:#50627c;color:#fff}.resource-card.atlas-card p{color:#c8d9e6}.resource-card.atlas-card .resource-id{background:#73e4cd;border-color:#73e4cd;color:#092d34}.resource-card.atlas-card .arrow{color:#e2c58d}.resource-card.atlas-card::after{background:#7c6be32b}.resource-card.atlas-card:hover{border-color:#8eead8;box-shadow:0 18px 34px #1723422b}
 @media print{.resource-card.atlas-card{background:white;color:var(--ink);border-color:#d9e5ea}.resource-card.atlas-card p{color:#536a7b}}
+
+/* Companion organ-system studio card. */
+.resource-card.soma-card{background:linear-gradient(135deg,#103c40,#17352d);border-color:#416b61;color:#fff}
+.resource-card.soma-card p{color:#d1e5de}
+.resource-card.soma-card .resource-id{background:#d3ff69;border-color:#d3ff69;color:#20351d}
+.resource-card.soma-card .arrow{color:#d3ff69}
+.resource-card.soma-card::after{background:#d3ff6918}
+.resource-card.soma-card:hover{border-color:#d3ff69;box-shadow:0 18px 34px #17352d2b}
+@media print{.resource-card.soma-card{background:white;color:var(--ink);border-color:#d9e5ea}.resource-card.soma-card p{color:#536a7b}}
